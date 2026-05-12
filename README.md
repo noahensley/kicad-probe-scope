@@ -25,8 +25,15 @@ kicad-probe-scope/
 │   └── ESProbeScope3300-job.gbrjob
 │
 └── doc/
+    ├── schematic.pdf
     └── bom.xlsx
 ```
+
+---
+
+## Schematic
+
+A PDF export of the schematic is available at [doc/schematic.pdf](doc/schematic.pdf) for viewing without KiCad.
 
 ---
 
